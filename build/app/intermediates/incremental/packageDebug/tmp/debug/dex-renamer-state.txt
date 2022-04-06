@@ -1,0 +1,4 @@
+#Wed Apr 06 15:36:06 CST 2022
+base.0=/Users/jiangyu/Documents/GitCodes/flutter_favorcate/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
