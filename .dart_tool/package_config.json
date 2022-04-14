@@ -86,8 +86,20 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///Users/jiangyu/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///Users/jiangyu/.pub-cache/hosted/pub.dartlang.org/path-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/jiangyu/.pub-cache/hosted/pub.dartlang.org/provider-6.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -152,7 +164,7 @@
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2022-04-02T09:52:46.657588Z",
+  "generated": "2022-04-14T06:22:47.938728Z",
   "generator": "pub",
   "generatorVersion": "2.15.0-260.0.dev"
 }
